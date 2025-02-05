@@ -13,7 +13,7 @@ The dataset for this project was obtained from the official website of the **Sta
 ```
 salary-forecasting/
 ├── notebooks/           # Jupyter Notebooks for exploration and modeling
-├── images [results]/                 # Results as PNG format
+├── images [results]/    # Results as PNG format
 ├── models/              # Saved model artifacts and results
 ├── .gitignore           # Files and directories to be ignored by Git
 ├── requirements.txt     # Python package dependencies
@@ -76,7 +76,7 @@ Follow these steps to set up the project locally:
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License
 
 ## Contact
 For any questions or further information, please contact:  
