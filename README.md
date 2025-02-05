@@ -12,9 +12,8 @@ The dataset for this project was obtained from the official website of the **Sta
 ## Project Structure
 ```
 salary-forecasting/
-├── data/                # Raw and processed data files
 ├── notebooks/           # Jupyter Notebooks for exploration and modeling
-├── src/                 # Python scripts for data processing and model training
+├── images [results]/                 # Results as PNG format
 ├── models/              # Saved model artifacts and results
 ├── .gitignore           # Files and directories to be ignored by Git
 ├── requirements.txt     # Python package dependencies
@@ -70,7 +69,7 @@ Follow these steps to set up the project locally:
 - **Running the Scripts:**  
   To preprocess data and train the model, execute the Python scripts located in the `src/` directory:
   ```bash
-  python src/train_model.py
+  python src/forecasting_model.py
   ```
 
 ## Contributing
