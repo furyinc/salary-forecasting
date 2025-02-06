@@ -4,6 +4,12 @@
 ## Overview
 This repository contains the analysis and machine learning model developed for forecasting salary trends. The project includes data exploration, feature engineering, statistical analysis, and the development of a predictive model to forecast salaries using historical data.
 
+## 🔧 **Tech Stack**  
+Data Processing: Pandas, NumPy  
+Visualization: Matplotlib  
+Machine Learning: Scikit-learn (Linear Regression)
+
+
 ## Data Source
 The dataset for this project was obtained from the official website of the **Statistics Agency of Uzbekistan**.  
 - **Data URL:** [Statistics Agency of Uzbekistan](https://www.stat.uz/uz/rasmiy-statistika/labor-market-2)  
